@@ -1,10 +1,15 @@
-Hexo theme: Apollo
+Hexo theme: Apollo - yuseiito flavord
 =================
 
-**This hexo theme is modified from SANOGRAPHIX.NET**
+hexo theme "Apollo" をyuseiitoが自身のblog向けに改変したものです。
 
-[Original](https://github.com/sanographix/tumblr/tree/master/apollo) (Tumblr theme)  
-[Demo](http://joyceim.github.io/)
+歴史的には、どうやらSANOGRAPHIX氏がTumblr themeとして作成したもの(MITライセンス) が
+[オリジナル](https://github.com/sanographix/tumblr/tree/master/apollo) であり、
+次いで [Hexoに移植された](https://github.com/joyceim/hexo-theme-apollo.git)ようです。
+しかしながら、2023年7月現在joyceim氏のアカウントは消失しています。
+
+本テーマ自体は、[AthenaYin氏のバージョン](https://github.com/AthenaYin/hexo-theme-apollo) からforkして、
+日本語が中華フォントでレンダリングされるのを防ぐなどの改変を加えています。
 
 
 ##Installation
@@ -12,7 +17,7 @@ Hexo theme: Apollo
 ###Install
 
 ``` bash
-$ git clone git@github.com:joyceim/hexo-theme-apollo.git themes/apollo
+$ git clone git@github.com:yuseiito/hexo-theme-apollo.git themes/apollo
 ```
 
 **Apollo requires Hexo 2.4 and above.**
